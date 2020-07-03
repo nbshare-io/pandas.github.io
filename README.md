@@ -43,5 +43,5 @@ Caching Queries - saves memory and runs code faster
 <h2><a href="https://github.com/quantopian/qgrid">Qgrid</a></h2>
 
 - List
-This one is great utility if you use Jupyter notebooks. Qrid embeds an interactive widge in the notebook. Using this widget, one can do interactive scrolling, sorting and filtering on the dataframe.
+This one is great utility if you use Jupyter notebooks. Qgrid embeds an interactive widge in the notebook. Using this widget, one can do interactive scrolling, sorting and filtering on the dataframe.
 <img src="https://github.com/quantopian/qgrid/raw/master/docs/images/filtering_demo.gif">
