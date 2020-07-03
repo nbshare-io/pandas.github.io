@@ -32,6 +32,7 @@ Text analysis learn about categories (Uppercase, Space), scripts (Latin, Cyrilli
 File and Image analysis extract file sizes, creation dates and dimensions and scan for truncated images or those containing EXIF information.
 
 <h2><a href="https://github.com/pydata/pandas-datareader">pandas-datareader</a></h2> This package does following...
+
 - List
 Remote Data Access - extract stocks data from various online resources 
 - List
