@@ -9,7 +9,7 @@ Pandas is a awesome package in Python. It is especially used for data science ap
 
 Pandas in itself is a great library. It has excellent community support. There are lot of packages which have been developed by Python community. In this post, I will go over the list of Pandas packages which everyone should have in his/her tool box.  
 
-<h2><a href="https://github.com/pandas-profiling/pandas-profiling">pandas-profiling</a></h2> 
+<h2><a href="https://github.com/pandas-profiling/pandas-profiling">Pandas-Profiling</a></h2> 
 Everyone knows df.describe() function which basically summarizes the data for each column and provide some basic stats. Pandas-profiling has taken df.describe() to the next level. It provides following features...
 
 - List
@@ -33,14 +33,14 @@ Text analysis learn about categories (Uppercase, Space), scripts (Latin, Cyrilli
 - List
 File and Image analysis extract file sizes, creation dates and dimensions and scan for truncated images or those containing EXIF information.
 
-<h2><a href="https://github.com/pydata/pandas-datareader">pandas-datareader</a></h2> This package does following...
+<h2><a href="https://github.com/pydata/pandas-datareader">Pandas-Datareader</a></h2> This package does following...
 
 - List
 Remote Data Access - extract stocks data from various online resources 
 - List
 Caching Queries - saves memory and runs code faster
 
-<h2><a>https://github.com/quantopian/qgrid</a>Qgrid</h2>
+<h2><a href="https://github.com/quantopian/qgrid">Qgrid</a></h2>
 - List
 This one is great utility if you use Jupyter notebooks. Qrid embeds an interactive widge in the notebook. Using this widget, one can do interactive scrolling, sorting and filtering on the dataframe.
 <img src="https://github.com/quantopian/qgrid/raw/master/docs/images/filtering_demo.gif">
