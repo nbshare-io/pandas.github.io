@@ -45,3 +45,8 @@ Caching Queries - saves memory and runs code faster
 - List
 This one is great utility if you use Jupyter notebooks. Qgrid embeds an interactive widge in the notebook. Using this widget, one can do interactive scrolling, sorting and filtering on the dataframe.
 <img src="https://github.com/quantopian/qgrid/raw/master/docs/images/filtering_demo.gif">
+
+<h2><a href="https://github.com/wesm/feather">Feather</a></h2>
+
+- List 
+Feather is a dataformat which is especially designed to read and write dataframes faster. I would highly recommend it, if you are dealing with large dataframes.
