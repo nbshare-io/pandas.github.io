@@ -30,3 +30,7 @@ Missing values matrix, count, heatmap and dendrogram of missing values
 Text analysis learn about categories (Uppercase, Space), scripts (Latin, Cyrillic) and blocks (ASCII) of text data.
 - List
 File and Image analysis extract file sizes, creation dates and dimensions and scan for truncated images or those containing EXIF information.
+<a href="https://github.com/pydata/pandas-datareader">pandas-datareader</a> This package does following...
+- List
+Remote Data Access - extract stocks data from various online resources 
+Caching Queries - saves memory and runs code faster
