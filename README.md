@@ -33,4 +33,5 @@ File and Image analysis extract file sizes, creation dates and dimensions and sc
 <a href="https://github.com/pydata/pandas-datareader">pandas-datareader</a> This package does following...
 - List
 Remote Data Access - extract stocks data from various online resources 
+- List
 Caching Queries - saves memory and runs code faster
