@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+<h1>Top Pandas Packages And Libraries</h1>
+Pandas is a awesome package in Python. It is especially used for data science applications. Pandas data structure dataframe is very effective in doing data manipulations. Pandas dataframes support operations such data summarization, aggregation, visualization etc. Check out following resources to learn more about pandas...
 
-You can use the [editor on GitHub](https://github.com/nbshare-io/pandas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+https://www.nbshare.io/notebook/823959095/Pivot-Tables-In-Python-Pandas/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://www.nbshare.io/notebook/703251111/Most-Frequently-Asked-Questions-Python-Pandas-Part1/
 
-### Markdown
+https://www.nbshare.io/notebook/17251835/Summarising-Aggregating-and-Grouping-data-in-Python-Pandas/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nbshare-io/pandas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Pandas in itself is a great library. It has excellent community support. There are lot of packages which have been developed by Python community. In this post, I will go over the list of Pandas packages which everyone should have in his/her tool box.  
