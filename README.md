@@ -1,5 +1,5 @@
 <h1>Top Pandas Packages And Libraries</h1>
-Pandas is a awesome package in Python. It is especially used for data science applications. Pandas data structure dataframe is very effective in doing data manipulations. Pandas dataframes support operations such data summarization, aggregation, visualization etc. Check out following resources to learn more about pandas...
+Pandas is a awesome package in Python. It is especially used for data science applications. Pandas dataframe data structure is very effective in doing data manipulations. Pandas dataframes support operations such data summarization, aggregation, visualization etc. Check out following resources to learn more about pandas...
 
 <a href="https://www.nbshare.io/notebook/823959095/Pivot-Tables-In-Python-Pandas/">https://www.nbshare.io/notebook/823959095/Pivot-Tables-In-Python-Pandas/</a>
 
@@ -39,3 +39,8 @@ File and Image analysis extract file sizes, creation dates and dimensions and sc
 Remote Data Access - extract stocks data from various online resources 
 - List
 Caching Queries - saves memory and runs code faster
+
+<h2><a>https://github.com/quantopian/qgrid</a></h2>
+- List
+This one is great utility if you use Jupyter notebooks. Qrid embeds an interactive widge in the notebook. Using this widget, one can do interactive scrolling, sorting and filtering on the dataframe.
+<img src="https://github.com/quantopian/qgrid/raw/master/docs/images/filtering_demo.gif">
