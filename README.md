@@ -11,6 +11,7 @@ Pandas in itself is a great library. It has excellent community support. There a
 
 <h2><a href="https://github.com/pandas-profiling/pandas-profiling">pandas-profiling</a></h2> 
 Everyone knows df.describe() function which basically summarizes the data for each column and provide some basic stats. Pandas-profiling has taken df.describe() to the next level. It provides following features...
+
 - List
 Detect the types of columns in a dataframe.
 - List 
